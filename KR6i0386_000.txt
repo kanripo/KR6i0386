@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說摩訶剎頭經
+#+DATE: 2015-08-30 20:17:47.847400
+#+PROPERTY: JUAN 0
